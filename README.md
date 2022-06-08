@@ -1,4 +1,4 @@
-Will be ignored:
+tipo izmenil Will be ignored:
 Local .terraform directories
 .tfstate files
 Crash log files
